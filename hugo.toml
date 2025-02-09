@@ -14,7 +14,7 @@ theme = "PaperMod"
   [[menu.main]]
     identifier = "work"
     name = "Work"
-    url = "/work/"
+    url = "work"
     weight = 2
 
   [[menu.main]]
