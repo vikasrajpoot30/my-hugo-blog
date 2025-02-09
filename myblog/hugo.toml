@@ -25,7 +25,8 @@ theme = "PaperMod"
 
 
 [params]
-  ShowBreadCrumbs = false
+   mainSections = ["posts"]
+  ShowBreadCrumbs = true
   ShowReadingTime = false
   ShowShareButtons = false
   defaultTheme = "light"  # You can set "dark" or "light"
