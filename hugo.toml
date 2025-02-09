@@ -23,7 +23,7 @@ theme = "PaperMod"
     url = "contact"
     weight = 3
 
-
+[params]
  mainSections = ["posts"]   # Ensures posts appear on the homepage
   ShowReadingTime = true
   ShowBreadCrumbs = true
@@ -53,3 +53,4 @@ theme = "PaperMod"
   [[params.socialIcons]]
   name = "twitter"
   url = "https://twitter.com/vikasrajpoot_30"
+
