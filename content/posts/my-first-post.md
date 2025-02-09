@@ -1,6 +1,6 @@
 +++
 title = "My First Blog Post"
-date = "2025-02-10T17:30:00+05:30"
+date = "2025-01-10T17:30:00+05:30"
 
 author = "Vikas Rajpoot"
 tags = ["hugo", "blog", "learning"]

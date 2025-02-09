@@ -1,6 +1,6 @@
 +++
 title = "How to Stay Productive as a Developer"
-date = "2025-02-10T17:30:00+05:30"
+date = "2025-01-10T17:30:00+05:30"
 
 author = "Vikas Rajpoot"
 tags = ["productivity", "developer tips", "workflow"]

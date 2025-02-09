@@ -6,30 +6,8 @@
     <description>Recent content on Vikas Rajpoot</description>
     <generator>Hugo -- 0.139.4</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Feb 2025 17:30:00 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Exploring the World of Web Development</title>
-      <link>http://localhost:1313/posts/my-post-1/</link>
-      <pubDate>Mon, 10 Feb 2025 17:30:00 +0530</pubDate>
-      <guid>http://localhost:1313/posts/my-post-1/</guid>
-      <description>&lt;p&gt;Web development is an exciting field with endless possibilities. In this post, we&amp;rsquo;ll explore the basics of frontend and backend development.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How to Stay Productive as a Developer</title>
-      <link>http://localhost:1313/posts/my-post-2/</link>
-      <pubDate>Mon, 10 Feb 2025 17:30:00 +0530</pubDate>
-      <guid>http://localhost:1313/posts/my-post-2/</guid>
-      <description>&lt;p&gt;Productivity is key for any developer. In this post, we&amp;rsquo;ll discuss time management, best tools, and strategies to stay efficient.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My First Blog Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Mon, 10 Feb 2025 17:30:00 +0530</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;Welcome to my first blog post! 🚀&lt;br&gt;
-This is where I’ll share my thoughts on technology, coding, and life.&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Contact Me</title>
       <link>http://localhost:1313/contact/</link>
@@ -50,6 +28,28 @@ This is where I’ll share my thoughts on technology, coding, and life.&lt;/p&gt
       <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/work/</guid>
       <description>&lt;p&gt;Here is a list of my projects and experience. Stay tuned for updates!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Exploring the World of Web Development</title>
+      <link>http://localhost:1313/posts/my-post-1/</link>
+      <pubDate>Fri, 10 Jan 2025 17:30:00 +0530</pubDate>
+      <guid>http://localhost:1313/posts/my-post-1/</guid>
+      <description>&lt;p&gt;Web development is an exciting field with endless possibilities. In this post, we&amp;rsquo;ll explore the basics of frontend and backend development.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to Stay Productive as a Developer</title>
+      <link>http://localhost:1313/posts/my-post-2/</link>
+      <pubDate>Fri, 10 Jan 2025 17:30:00 +0530</pubDate>
+      <guid>http://localhost:1313/posts/my-post-2/</guid>
+      <description>&lt;p&gt;Productivity is key for any developer. In this post, we&amp;rsquo;ll discuss time management, best tools, and strategies to stay efficient.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Blog Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Fri, 10 Jan 2025 17:30:00 +0530</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Welcome to my first blog post! 🚀&lt;br&gt;
+This is where I’ll share my thoughts on technology, coding, and life.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
