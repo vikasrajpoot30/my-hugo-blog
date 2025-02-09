@@ -35,10 +35,10 @@ theme = "PaperMod"
   disableThemeToggle = true  # This removes the theme changer
 
  [params.homeInfoParams]
-  Title = "Welcome to My Blog"
-  Content = "I write about programming, productivity, and technology."
+  Title = "Hello there"
+  Content = "I am Vikas Rajpoot, a Software Engineer and IIT Guwahati graduate specializing in front-end development with React and JavaScript. I write about programming, productivity, and technology."
 
-  [params.profileMode]
+[params.profileMode]
   enabled = false  # Set to false if you want posts on homepage
 
 
