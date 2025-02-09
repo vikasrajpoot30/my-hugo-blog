@@ -1,6 +1,7 @@
 +++
 title = "Exploring the World of Web Development"
-date = 2025-02-10T15:00:00Z
+date = "2025-02-10T17:30:00+05:30"
+
 author = "Vikas Rajpoot"
 tags = ["web development", "frontend", "backend"]
 draft = false

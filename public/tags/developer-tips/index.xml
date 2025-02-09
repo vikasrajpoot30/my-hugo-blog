@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Developer Tips on Vikas Rajpoot</title>
+    <link>http://localhost:1313/tags/developer-tips/</link>
+    <description>Recent content in Developer Tips on Vikas Rajpoot</description>
+    <generator>Hugo -- 0.139.4</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Feb 2025 17:30:00 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/developer-tips/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Stay Productive as a Developer</title>
+      <link>http://localhost:1313/posts/my-post-2/</link>
+      <pubDate>Mon, 10 Feb 2025 17:30:00 +0530</pubDate>
+      <guid>http://localhost:1313/posts/my-post-2/</guid>
+      <description>&lt;p&gt;Productivity is key for any developer. In this post, we&amp;rsquo;ll discuss time management, best tools, and strategies to stay efficient.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
