@@ -1,5 +1,6 @@
-+++
-date = '2025-02-09T21:25:36Z'
-draft = true
-title = 'Contact'
-+++
+---
+title: "Contact Me"
+date: 2025-02-10
+---
+
+You can reach me via email at **youremail@example.com** or connect with me on [LinkedIn](#).
