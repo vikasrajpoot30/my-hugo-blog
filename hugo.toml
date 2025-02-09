@@ -32,7 +32,7 @@ theme = "PaperMod"
   defaultTheme = "light"  # You can set "dark" or "light"
   disableThemeToggle = true  # This removes the theme changer
 
-  [params.profileMode]
+  [params.homeInfoParams]
   enabled = true
   title = "Hello there"
   subtitle = "I am Vikas Rajpoot, a Web Developer & Programmer. I write about programming, productivity, and technology."
