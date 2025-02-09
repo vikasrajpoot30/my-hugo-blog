@@ -24,11 +24,12 @@ theme = "PaperMod"
     weight = 3
 
 
-[params]
-   mainSections = ["posts"]
+ mainSections = ["posts"]   # Ensures posts appear on the homepage
+  ShowReadingTime = true
   ShowBreadCrumbs = true
-  ShowReadingTime = false
-  ShowShareButtons = false
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
   defaultTheme = "light"  # You can set "dark" or "light"
   disableThemeToggle = true  # This removes the theme changer
 
