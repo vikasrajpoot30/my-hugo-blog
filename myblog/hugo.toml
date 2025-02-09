@@ -1,6 +1,6 @@
 baseURL = "http://localhost:1313/"
 languageCode = "en-us"
-title = "My o Blog"
+title = "Vikas Rajpoot"
 theme = "PaperMod"
 
 [menu]
@@ -23,6 +23,8 @@ theme = "PaperMod"
   ShowBreadCrumbs = false
   ShowReadingTime = false
   ShowShareButtons = false
+  defaultTheme = "light"  # You can set "dark" or "light"
+  disableThemeToggle = true  # This removes the theme changer
 
   [params.profileMode]
   enabled = true
