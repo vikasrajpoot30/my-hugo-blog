@@ -1,7 +1,7 @@
 +++
-date = '2025-02-09T21:25:36Z'
-title = 'Work'
+title = "Work"
+date = "2025-02-09"
+draft = false
 +++
-
 
 Here is a list of my projects and experience. Stay tuned for updates!
