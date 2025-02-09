@@ -1,6 +1,6 @@
 baseURL = "http://localhost:1313/"
 languageCode = "en-us"
-title = "My Hugo Blog"
+title = "My Hu Blog"
 theme = "PaperMod"
 
 [menu]
