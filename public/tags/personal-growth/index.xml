@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Personal Growth on Vikas Rajpoot</title>
     <link>http://localhost:1313/tags/personal-growth/</link>
     <description>Recent content in Personal Growth on Vikas Rajpoot</description>
-    <generator>Hugo -- 0.139.4</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Mar 2024 12:00:00 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/personal-growth/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Fri, 22 Mar 2024 12:00:00 +0530</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>Reflections on &amp;#39;The Alchemist&amp;#39; by Paulo Coelho and its impact on my journey.</description>
+      <description>&lt;p&gt;I remember when I first read &lt;em&gt;The Alchemist&lt;/em&gt;, it took me only one sitting to complete it. It was a page-turner that hooked me with its flow. It’s not a very common novel, or I must say a classical fiction story; instead, it’s a story of everyone’s journey.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv6QkLo4TuUSl2SPbSv-cJgwldXwDUGKnV2a_7tOH9LgNA9a3AaXsrtcQNt9TR3341C63yhPhRpjeHx8Nt_c_kmM-bDv3OgDN07CxwcwaFGfiKdbL35JQsoU9mpeGQfB8v-Em98urNaTQ/s1600/Desert_Oasis__Libya%5B1%5D.jpg&#34; alt=&#34;The Alchemist&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;It talks about the journey of finding oneself. We are all the same regardless of where we live or what language we speak; we are all one! Santiago is a boy who dreams of traveling across the desert to see the Pyramids and wants to find his “treasure.” This treasure is nothing but finding the &lt;em&gt;Personal Legend&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
