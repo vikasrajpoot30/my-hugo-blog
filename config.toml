@@ -1,0 +1,57 @@
+baseURL = "https://vikaas.netlify.app/"
+languageCode = "en-us"
+title = "Vikas Rajpoot"
+theme = "PaperMod"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "about"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "work"
+    name = "Work"
+    url = "work"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "contact"
+    weight = 3
+
+[params]
+ mainSections = ["posts"]   # Ensures posts appear on the homepage
+
+  ShowReadingTime = true
+  ShowBreadCrumbs = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+  defaultTheme = "light"  # You can set "dark" or "light"
+  disableThemeToggle = true  # This removes the theme changer
+
+ [params.homeInfoParams]
+  Title = "Hello there"
+  Content = "I am Vikas Rajpoot, a Software Engineer and IIT Guwahati graduate specializing in front-end development with React and JavaScript. I write about programming, productivity, and technology."
+
+[params.profileMode]
+  enabled = false  # Set to false if you want posts on homepage
+
+
+
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/vikasrajpoot30"
+
+  [[params.socialIcons]]
+  name = "linkedin"
+  url = "https://linkedin.com/in/vikas-rajpoot"
+
+  [[params.socialIcons]]
+  name = "twitter"
+  url = "https://twitter.com/vikasrajpoot_30"
+
