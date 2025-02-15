@@ -36,7 +36,7 @@ theme = "PaperMod"
 
  [params.homeInfoParams]
   Title = "Hello there"
-  Content = "I am Vikas Rajpoot, a Software Engineer and IIT Guwahati graduate specializing in front-end development with React and JavaScript. I write about programming, productivity, and technology."
+  Content = "I am Vikas Rajpoot, Software Engineer. I write about programming, productivity, movies, books and My life experiences."
 
 [params.profileMode]
   enabled = false  # Set to false if you want posts on homepage
